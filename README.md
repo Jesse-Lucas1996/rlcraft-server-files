@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-1. Java: RLCraft server runs on Java, so you need to have it installed on your machine. You can check if Java is installed by running `java -version` in your terminal. If it's not installed, you can install it by running `sudo apt install openjdk-11-jdk`.
+1. Java: RLCraft server runs on Java, so you need to have it installed on your machine. You can check if Java is installed by running `java -version` in your terminal. If it's not installed, you can install it by running `sudo apt install openjdk-8-jre-headless`.
 
 ### Steps to Run the Server
 
